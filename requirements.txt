@@ -1,0 +1,6 @@
+tensorflow=2.4
+pandas
+pillow
+fastapi
+uvicorn
+gunicorn
